@@ -1,4 +1,4 @@
-super basic python script with GUI, requires ffmpeg and ffprobe in the folder with the script
+super basic python script with GUI, uses FFMPEG and FFPROBE<br>
 https://www.gyan.dev/ffmpeg/builds/
 
 
