@@ -2,4 +2,5 @@ super basic python script with GUI, requires ffmpeg and ffprobe in the folder wi
 https://www.gyan.dev/ffmpeg/builds/
 
 
-[preview]: https://vhbc.neocities.org/misc_site_unrelated_files/python_osW1FwyFAd.png "Prewview"
+![Preview](https://vhbc.neocities.org/misc_site_unrelated_files/python_osW1FwyFAd.png)
+
